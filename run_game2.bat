@@ -1,0 +1,1 @@
+halite.exe "PyArmy.py" "PyArmy.py" "PyArmy.py" "PyArmy.py"
